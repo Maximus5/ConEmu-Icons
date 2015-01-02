@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ConEmu-green.svg"
+   inkscape:export-filename="T:\VCProject\Maximus5\ConEmu-src_help\icons\ConEmu-green-128.png"
+   inkscape:export-xdpi="23.040001"
+   inkscape:export-ydpi="23.040001">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="37.857143 : 402.42857 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="857 : 417.42857 : 1"
+       inkscape:persp3d-origin="256 : 170.66667 : 1"
+       id="perspective2985" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.039447"
+     inkscape:cx="250"
+     inkscape:cy="318.47325"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1115"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <path
+       style="fill:#00c800;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="M 250 42.15625 C 135.20812 42.15625 42.15625 135.20811 42.15625 250 C 42.15625 364.79189 135.20812 457.84375 250 457.84375 C 331.34035 457.84375 401.68853 411.10668 435.8125 343.03125 L 364.625 343.03125 C 337.5666 376.3975 296.32027 397.75 250 397.75 C 168.3933 397.75 102.25 331.6067 102.25 250 C 102.25 168.3933 168.3933 102.25 250 102.25 C 296.32027 102.25 337.5666 123.6025 364.625 156.96875 L 435.8125 156.96875 C 401.68853 88.893318 331.34035 42.15625 250 42.15625 z "
+       transform="translate(0,552.36218)"
+       id="path3015" />
+    <rect
+       style="fill:#00c800;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect3019"
+       width="324.50742"
+       height="55.996147"
+       x="162.49069"
+       y="774.36414"
+       ry="25.657269"
+       inkscape:export-xdpi="23.040001"
+       inkscape:export-ydpi="23.040001" />
+  </g>
+</svg>
