@@ -5,4 +5,9 @@ ConEmu needs new icon. It must be memorable, associative, simple and ascribable 
 Here are few variants. To check them just save ico file near to `ConEmu.exe` naming it `ConEmu.ico`.
 
 Have ideas? Post them here!
- 
+
+##Variants
+
+![Dark monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark.png)
+![Light monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-light.png)
+![CE sign](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-green.png)
