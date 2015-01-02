@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="520"
+   height="520"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ConEmu-600-2.svg"
+   inkscape:export-filename="T:\VCProject\Maximus5\ConEmu-src_help\icons\520-2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0321039"
+     inkscape:cx="260"
+     inkscape:cy="180.89767"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1209"
+     inkscape:window-height="888"
+     inkscape:window-x="26"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-532.36218)">
+    <rect
+       style="fill:#002b36;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect2996"
+       width="516"
+       height="385.83246"
+       x="2"
+       y="578.82825"
+       ry="10.757212" />
+    <rect
+       style="fill:#fdf6e3;fill-opacity:1;stroke:none"
+       id="rect3774"
+       width="474.34103"
+       height="332.59445"
+       x="23.223568"
+       y="604.15143"
+       ry="3.3351409" />
+    <rect
+       style="fill:#002b36;fill-opacity:1;stroke:none"
+       id="rect3914"
+       width="228.29556"
+       height="30.304577"
+       x="146.24628"
+       y="989.97479"
+       ry="12.589697" />
+    <text
+       xml:space="preserve"
+       style="font-size:200.01617432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#002b36;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       x="54.856827"
+       y="748.6557"
+       id="text3916"
+       sodipodi:linespacing="125%"
+       transform="scale(0.91243457,1.095969)"><tspan
+         sodipodi:role="line"
+         id="tspan3918"
+         x="54.856827"
+         y="748.6557"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#002b36;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold">CE</tspan></text>
+    <text
+       transform="scale(0.91243457,1.095969)"
+       sodipodi:linespacing="125%"
+       id="text3920"
+       y="799.34912"
+       x="291.86472"
+       style="font-size:200.01617432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#002b36;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#002b36;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+         y="799.34912"
+         x="291.86472"
+         id="tspan3922"
+         sodipodi:role="line">&gt;_</tspan></text>
+  </g>
+</svg>
