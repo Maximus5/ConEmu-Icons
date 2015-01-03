@@ -12,3 +12,4 @@ Have ideas? Post them here!
 ![Light monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-light.png)
 ![CE sign](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-green.png)
 ![CE sign squared](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-green-sq.png)
+![Dark monitor with CE sign](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark-ce.png)
