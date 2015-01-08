@@ -15,3 +15,4 @@ Have ideas? Post them here!
 ![Dark monitor with CE sign](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark-ce.png)
 ![Dark monitor with CE sign v2](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark-ce-v2.png)
 ![Dark monitor with CE sign v3](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark-ce-v3.png)
+![CE sign v4](https://github.com/Maximus5/ConEmu-Icons/blob/master/ConEmu-dark-ce-v4.png)
