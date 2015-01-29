@@ -1,6 +1,6 @@
 ##Icon rebranding
 
-[ConEmu](https://github.com/Maximus5/ConEmu) needs new icon. It must be memorable, associative, simple and ascribable to PC/IT.
+[ConEmu](https://github.com/Maximus5/ConEmu) needs new [icon](https://github.com/Maximus5/ConEmu-Icons). It must be memorable, associative, simple and ascribable to PC/IT.
 
 Here are few variants. To check them just save ico file near to `ConEmu.exe` naming it `ConEmu.ico`.
 
