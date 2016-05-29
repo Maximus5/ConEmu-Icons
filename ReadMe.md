@@ -16,6 +16,8 @@ Have ideas? Post them here!
 ![Dark monitor with CE sign v2](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark-ce-v2.png)
 ![Dark monitor with CE sign v3](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark-ce-v3.png)
 ![CE sign v4](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark-ce-v4.png)
+![CE cubic](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-cubic.png)
+
 
 ##License
 
@@ -42,4 +44,3 @@ Have ideas? Post them here!
     THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
     THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-    
