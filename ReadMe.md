@@ -17,6 +17,7 @@ Have ideas? Post them here!
 ![Dark monitor with CE sign v3](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark-ce-v3.png)
 ![CE sign v4](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark-ce-v4.png)
 <img alt="CE cubic" width="48" height="48" src="https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-cubic.png"/>
+<img alt="from @i5ar" width="48" height="48" src="https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/i5ar-128.png"/>
 
 
 ##License
