@@ -8,6 +8,7 @@ Have ideas? Post them here!
 
 ##Variants
 
+![Original icon](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/original.png)
 ![Dark monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark.png)
 ![Light monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-light.png)
 ![CE sign](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-green.png)
