@@ -1,4 +1,4 @@
-##Icon rebranding
+## Icon rebranding
 
 [ConEmu](https://github.com/Maximus5/ConEmu) needs new [icon](https://github.com/Maximus5/ConEmu-Icons). It must be memorable, associative, simple and ascribable to PC/IT.
 
@@ -6,7 +6,7 @@ Here are few variants. To check them just save ico file near to `ConEmu.exe` nam
 
 Have ideas? Post them here!
 
-##Variants
+## Variants
 
 ![Original icon](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/original.png)
 ![Dark monitor](https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/ConEmu-dark.png)
@@ -21,7 +21,7 @@ Have ideas? Post them here!
 <img alt="from @i5ar" width="48" height="48" src="https://github.com/Maximus5/ConEmu-Icons/blob/master/icons/i5ar-128.png"/>
 
 
-##License
+## License
 
     Copyright (c) 2015, Maximus5 <ConEmu.Maximus5@gmail.com>
     
